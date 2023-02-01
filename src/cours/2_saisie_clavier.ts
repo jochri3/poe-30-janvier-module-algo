@@ -2,7 +2,6 @@
 /* eslint-disable @typescript-eslint/no-inferrable-types */
 import PromptSync from 'prompt-sync'
 const prompt = PromptSync()
-
 let longueur: number = parseInt(prompt('Entrer la longueur : '))
 let largeur: number = parseInt(prompt('Entrer la largeur : '))
 
