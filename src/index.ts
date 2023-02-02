@@ -11,4 +11,6 @@
 // import './cours/7_while'
 // import './cours/8_while_suite'
 // import './exercices/11_code_pin'
-import './cours/9_tableaux'
+// import './cours/9_tableaux'
+// import './cours/10_tableau_suite'
+// import './exercices/12_tableaux_notes'
