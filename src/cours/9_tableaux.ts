@@ -7,10 +7,10 @@ const notes: number[] = [12, 14, 18, 15, 9]
 let somme: number = 0
 
 for (let index = 0; index < notes.length; index++) {
-  somme = somme + notes[index]
+  sommeTableaux = sommeTableaux + notes[index]
 }
 
-const moyenne = somme / notes.length
+const moyenne = sommeTableaux / notes.length
 
-console.log(`Somme : ${somme}`)
+console.log(`Somme : ${sommeTableaux}`)
 console.log(`Moyenne : ${moyenne}`)

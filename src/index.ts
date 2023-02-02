@@ -14,3 +14,7 @@
 // import './cours/9_tableaux'
 // import './cours/10_tableau_suite'
 // import './exercices/12_tableaux_notes'
+// import './exercices/13_frequence_nombre'
+// import './exercices/14_exo_rechercher_nombre'
+// import './exercices/15_somme_tableaux'
+import './exercices/16_pg_pp'
