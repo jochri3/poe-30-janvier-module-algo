@@ -7,4 +7,6 @@
 // import './cours/4_conditions'
 // import './cours/5_conditions_multiples'
 // import './cours/6_boucle_for'
-import './exercices/10_table_multi'
+// import './exercices/10_table_multi'
+// import './cours/7_while'
+import './cours/8_while_suite'
