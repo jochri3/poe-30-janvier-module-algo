@@ -32,6 +32,3 @@ for (let nombre = 2; nombre <= 10; nombre++) {
 }
 
 
-// Demander à l'utilisateur un nombre à partir du clavier
-// Afficher la table de multiplication de ce nombre
-// En allant de a à b

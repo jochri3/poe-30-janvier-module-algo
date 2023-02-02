@@ -6,4 +6,5 @@
 // import './exercices/3_exo_annee_naissance'
 // import './cours/4_conditions'
 // import './cours/5_conditions_multiples'
-import './cours/6_boucle_for'
+// import './cours/6_boucle_for'
+import './exercices/10_table_multi'
