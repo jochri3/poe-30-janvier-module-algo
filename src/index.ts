@@ -5,4 +5,4 @@
 // import './exercices/2_exo_permutations2'
 // import './exercices/3_exo_annee_naissance'
 // import './cours/4_conditions'
-import './cours/5_conditions_multiples'
+// import './cours/5_conditions_multiples'
