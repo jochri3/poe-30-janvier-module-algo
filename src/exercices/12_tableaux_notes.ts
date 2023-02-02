@@ -4,7 +4,7 @@ import PromptSync from 'prompt-sync'
 const prompt = PromptSync()
 
 const NOTE_MIN: number = 0
-const NOTE_MAX: number = 0
+const NOTE_MAX: number = 20
 
 let nombreNotes: number = 0
 
