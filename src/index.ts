@@ -9,4 +9,6 @@
 // import './cours/6_boucle_for'
 // import './exercices/10_table_multi'
 // import './cours/7_while'
-import './cours/8_while_suite'
+// import './cours/8_while_suite'
+// import './exercices/11_code_pin'
+import './cours/9_tableaux'
